@@ -82,7 +82,7 @@ START_IMG_URL = getenv(
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://graph.org/file/a5de6027104ca87c5b562.jpg"
-PLAYLIST_IMG_URL = "https://graph.org/file/a5de6027104ca87c5b562.jpg
+PLAYLIST_IMG_URL = "https://graph.org/file/a5de6027104ca87c5b562.jpg"
 STATS_IMG_URL = "https://graph.org/file/a5de6027104ca87c5b562.jpg"
 TELEGRAM_AUDIO_URL = "https://graph.org/file/a5de6027104ca87c5b562.jpg"
 TELEGRAM_VIDEO_URL = "https://graph.org/file/a5de6027104ca87c5b562.jpg"
